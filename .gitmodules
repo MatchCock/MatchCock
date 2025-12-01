@@ -1,0 +1,6 @@
+[submodule "MatchCock-Frontend"]
+	path = MatchCock-Frontend
+	url = https://github.com/ashveil-dev/MatchCock-Frontend
+[submodule "MatchCock-Backend"]
+	path = MatchCock-Backend
+	url = https://github.com/ashveil-dev/MatchCock-Backend
